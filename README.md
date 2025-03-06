@@ -8,3 +8,5 @@ This Python project provides a basic word count functionality. It takes a string
 
 
 # OUTPUT
+
+https://github.com/Hanush22/word-counter/issues/new
