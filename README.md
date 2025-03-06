@@ -9,4 +9,4 @@ This Python project provides a basic word count functionality. It takes a string
 
 # OUTPUT
 
-https://github.com/Hanush22/word-counter/issues/new
+<img width="1120" alt="Image" src="https://github.com/user-attachments/assets/ea56a5f9-1c9e-4569-b084-0884e613a473" />
